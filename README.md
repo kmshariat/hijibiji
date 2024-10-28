@@ -9,12 +9,18 @@ Hijibiji is a Bangla word which translates to 'randomly'. This `hijibiji` packag
 
 ## What it generates
 
-Using the `rand_image()` function of the package images of any dimension with random pixel values can be generated. 
+- [x] Using the `rand_image()` function of the package images of any dimension with random pixel values can be generated. See an image like this ![here](https://github.com/kmshariat/hijibiji/blob/main/creations/rand_image.png)
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src='\creations\rand_image.png' style="height: 75%; width: 75%;" alt="Random Image">
-</div>
+- [x] Using the `rand_video()` function of the package animations of any dimension with random pixel values can be generated. See an animation like this ![here](https://github.com/kmshariat/hijibiji/blob/main/creations/rand_video.gif)
 
-Using the `rand_video()` function of the package animations of any dimension with random pixel values can be generated.
+- [x] Using the `rand_audio()` function you can see the sound of randomness. Want to know randomness sounds like? Try the package yourself! 
 
-![Random Video]('\creations\rand_video.gif')
+## How to install
+
+```
+pip install hijibiji
+```
+
+## Caution! 
+
+The word `random` here doesn't mean actual randomness. The package uses Numpy's random subpackage that uses the  permuted congruential generator-64 (PCG64) algorithm to generate `pseudo random` numbers. 
