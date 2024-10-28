@@ -12,7 +12,9 @@ Hijibiji is a Bangla word which translates to 'randomly'. This `hijibiji` packag
 Using the `rand_image()` function of the package images of any dimension with random pixel values can be generated. 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src='\creations\rand_image.png' style="height: 25%; width: 25%;" alt="Random Image">
+    <img src='\creations\rand_image.png' style="height: 75%; width: 75%;" alt="Random Image">
 </div>
 
+Using the `rand_video()` function of the package animations of any dimension with random pixel values can be generated.
 
+![Random Video]('\creations\rand_video.gif')
