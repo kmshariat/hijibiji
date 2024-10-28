@@ -9,9 +9,9 @@ Hijibiji is a Bangla word which translates to 'randomly'. This `hijibiji` packag
 
 ## What it generates
 
-- [x] Using the `rand_image()` function of the package images of any dimension with random pixel values can be generated. See an image like this ![here](https://github.com/kmshariat/hijibiji/blob/main/creations/rand_image.png)
+- [x] Using the `rand_image()` function of the package images of any dimension with random pixel values can be generated. See an image like this <br> ![here](https://github.com/kmshariat/hijibiji/blob/main/creations/rand_image.png)
 
-- [x] Using the `rand_video()` function of the package animations of any dimension with random pixel values can be generated. See an animation like this ![here](https://github.com/kmshariat/hijibiji/blob/main/creations/rand_video.gif)
+- [x] Using the `rand_video()` function of the package animations of any dimension with random pixel values can be generated. See an animation like this <br> ![here](https://github.com/kmshariat/hijibiji/blob/main/creations/rand_video.gif)
 
 - [x] Using the `rand_audio()` function you can see the sound of randomness. Want to know randomness sounds like? Try the package yourself! 
 
@@ -20,6 +20,13 @@ Hijibiji is a Bangla word which translates to 'randomly'. This `hijibiji` packag
 ```
 pip install hijibiji
 ```
+
+## Requrements
+
+- [x] numpy
+- [x] matplotlib
+- [x] sounddevice
+
 
 ## Caution! 
 
