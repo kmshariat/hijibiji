@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src='creation/pixeleted.png' style="height: 25%; width: 25%;" alt="Pixelated Image">
+    <img src='\creations\pixeleted.png' style="height: 25%; width: 25%;" alt="Pixelated Image">
 </div>
 
 
@@ -12,7 +12,7 @@ Hijibiji is a Bangla word which translates to 'randomly'. This `hijibiji` packag
 Using the `rand_image()` function of the package images of any dimension with random pixel values can be generated. 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src='hijibiji/rand_image.png' style="height: 25%; width: 25%;" alt="Random Image">
+    <img src='\creations\rand_image.png' style="height: 25%; width: 25%;" alt="Random Image">
 </div>
 
 
