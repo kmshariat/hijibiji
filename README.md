@@ -27,7 +27,6 @@ pip install hijibiji
 - [x] matplotlib
 - [x] sounddevice
 
-
 ## Caution! 
 
 The word `random` here doesn't mean actual randomness. The package uses Numpy's random subpackage that uses the  permuted congruential generator-64 (PCG64) algorithm to generate `pseudo random` numbers. 
