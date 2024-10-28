@@ -157,5 +157,3 @@ def rand_dots(num_points, range_x, range_y, size_range=[50,500]):
     plt.yticks([range_y[0], range_y[-1]])
     plt.title("Randomly Scattered Dots")
     plt.show()
-
-rand_image([16, 20], 'viridis')
